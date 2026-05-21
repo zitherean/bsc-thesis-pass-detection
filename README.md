@@ -1,7 +1,7 @@
 # Forward Football Thesis Project
 ## Comparing Machine Learning Models for Predicting Pass-Containing Windows in Football
 
-This repository contains the source code and notebooks for this pass thesis project.
+This repository contains the source code and notebooks for this thesis project.
 
 ## Repository Structure
 
