@@ -1,0 +1,12 @@
+# Python bytecode
+*.pyc
+__pycache__/
+
+# venv
+/venv
+
+# sensitive data
+data_matches/match*/
+
+# script
+script.py
