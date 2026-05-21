@@ -6,7 +6,8 @@ __pycache__/
 /venv
 
 # sensitive data
-data_matches/match*/
+data_matches/
+data_matches/processed/
 
 # script
 script.py
